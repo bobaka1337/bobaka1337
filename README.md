@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**bobaka1337/bobaka1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on data pipelines, APIs, and automation.
 
-Here are some ideas to get you started:
+Currently building **polyquant** — analytics for Polymarket markets:
+- probability & edge calculations
+- bookmaker odds comparison
+- Telegram bots & alerts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Python · FastAPI · Django · pytest · APIs · Telegram · SQL
+
+### Links
+- 🌐 https://polyquantbuild.com
+- 🤖 https://t.me/polyquantbot
+- 🐦 https://x.com/polyquant_ij
+
+⚠️ Analytics only. No betting advice.
